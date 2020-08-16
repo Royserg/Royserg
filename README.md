@@ -3,7 +3,7 @@
 ## I am a Computer Science Student
 
 - 🖥️ I’m currently doing internship at [ArchitectureQuote][internshipwebsite]!
-- 🌱 I’m currently learning testing React apps with [Cypress][cypress]
+- 🌱 I’m currently learning React app testing with [Cypress][cypress]
 - 🥅 I’m looking for a full-time position as a Web Developer
 - ⚡ Fun fact: I love to workout and read Manga
 
@@ -38,6 +38,15 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
 <br />
+<br />
+
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="Royserg's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Royserg&show_icons=true&hide_border=true" />
+
+</details>
+
 <br />
 
 [linkedin]: https://www.linkedin.com/in/jakub-stanio/
