@@ -2,8 +2,8 @@
 
 ## I am a Computer Science Student
 
-- 🖥️ I’m currently doing internship at [ArchitectureQuote][internshipwebsite]!
-- 🌱 I’m currently learning React app testing with [Cypress][cypress]
+- 🖥️ I’m currently developing new features for [ArchitectureQuote][internshipwebsite]!
+- 🌱 I’m currently improving platform using React and writing tests with [Cypress.io][cypress]
 - 🥅 I’m looking for a full-time position as a Web Developer
 - ⚡ Fun fact: I love to workout and read Manga
 
