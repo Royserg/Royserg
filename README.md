@@ -2,8 +2,8 @@
 
 ## I am a Computer Science Student
 
-- 🖥️ I’m currently developing new features for [ArchitectureQuote][internshipwebsite]!
-- 🌱 I’m currently improving platform using React and writing tests with [Cypress.io][cypress]
+- 🖥️ I’m currently working as a Software Developer at [SHIELD][workPlace]!
+- 🌱 I’m currently learning and working with Angular, NestJS, Typescript and Docker
 - 🥅 I’m looking for a full-time position as a Web Developer
 - ⚡ Fun fact: I love to workout and read Manga
 
@@ -50,5 +50,5 @@
 <br />
 
 [linkedin]: https://www.linkedin.com/in/jakub-stanio/
-[internshipwebsite]: https://architecturequote.com/
+[workPlace]: https://shieldapp.ai/
 [cypress]: https://www.cypress.io/
