@@ -3,8 +3,8 @@
 ## I am a Computer Science Student
 
 - 🖥️ I’m currently working as a Software Developer at [SHIELD][workPlace]!
-- 🌱 I’m currently learning and working with Angular, NestJS, Typescript and Docker
-- 🥅 I’m looking for a full-time position as a Web Developer
+- 🥅 I love to develop applications
+- 🌱 Currently working with React, Angular, NestJS, Typescript and Docker
 - ⚡ Fun fact: I love to workout and read Manga
 
 ### Connect with me:
