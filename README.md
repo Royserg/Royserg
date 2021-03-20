@@ -1,6 +1,6 @@
 ### Hi there, I am Jakub 👋
 
-## I am a Computer Science Student
+## Thank you for visiting 🧑‍💻
 
 - 🖥️ I’m currently working as a Software Developer at [SHIELD][workPlace]!
 - 🥅 I love to develop applications
