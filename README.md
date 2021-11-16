@@ -36,14 +36,6 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
 <br />
-<br />
-
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="Royserg's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Royserg&show_icons=true&hide_border=true" />
-
-</details>
 
 <br />
 
