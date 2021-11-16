@@ -1,11 +1,9 @@
 ### Hi there, I am Jakub 👋
 
-## Thank you for visiting 🧑‍💻
+## Thanks for visiting 🧑‍💻
 
-- 🖥️ I’m currently working as a Software Developer at [SHIELD][workPlace]!
-- 🥅 I love to develop applications
-- 🌱 Currently working with React, Angular, NestJS, Typescript and Docker
-- ⚡ Fun fact: I love to workout and read Manga
+- 🖥️ I’m creating awesome things as a Full Stack Dev at [SHIELD][workPlace]!
+- 🌱 React, Angular, NestJS, Typescript, Docker 🚀
 
 ### Connect with me:
 
